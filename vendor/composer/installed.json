@@ -1,0 +1,50 @@
+{
+    "packages": [
+        {
+            "name": "lytatloizz/mypackage",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lytatloizz/mypackage.git",
+                "reference": "524fe1de5492760f4db457cfee1b76473d8f07a0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lytatloizz/mypackage/zipball/524fe1de5492760f4db457cfee1b76473d8f07a0",
+                "reference": "524fe1de5492760f4db457cfee1b76473d8f07a0",
+                "shasum": ""
+            },
+            "time": "2022-04-22T16:39:39+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Lytatloizz\\Mypackage\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "lytatloizz",
+                    "email": "lytatloizz.no1@gmail.com"
+                }
+            ],
+            "description": "mypackage_ver_1.1",
+            "keywords": [
+                "Mypackage"
+            ],
+            "support": {
+                "issues": "https://github.com/lytatloizz/mypackage/issues",
+                "source": "https://github.com/lytatloizz/mypackage/tree/main"
+            },
+            "install-path": "../lytatloizz/mypackage"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
