@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "d08ea946b1e845dfdcf1abbc852581c9",
+    "packages": [
+        {
+            "name": "lytatloizz/mypackage",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lytatloizz/mypackage.git",
+                "reference": "524fe1de5492760f4db457cfee1b76473d8f07a0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lytatloizz/mypackage/zipball/524fe1de5492760f4db457cfee1b76473d8f07a0",
+                "reference": "524fe1de5492760f4db457cfee1b76473d8f07a0",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Lytatloizz\\Mypackage\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "lytatloizz",
+                    "email": "lytatloizz.no1@gmail.com"
+                }
+            ],
+            "description": "mypackage_ver_1.1",
+            "keywords": [
+                "Mypackage"
+            ],
+            "support": {
+                "issues": "https://github.com/lytatloizz/mypackage/issues",
+                "source": "https://github.com/lytatloizz/mypackage/tree/main"
+            },
+            "time": "2022-04-22T16:39:39+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "lytatloizz/mypackage": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
