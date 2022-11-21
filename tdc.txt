@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-789
+<<<<<<< HEAD
+123
 =======
-456
+loi dep trai
 >>>>>>> origin/newBranch
