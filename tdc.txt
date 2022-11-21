@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-123
-=======
-loi dep trai
->>>>>>> origin/newBranch
